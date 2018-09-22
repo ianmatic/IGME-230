@@ -67,6 +67,7 @@ Player should learn to understand based off slow movement that aiming and shooti
 ## Screenshots
 The Aesthetic Look of the game</br>
 ![Aesthetic](https://people.rit.edu/imm2853/230/project1/Media/look.jpg)
+</br>
 A level design / gameplay Mock-Up</br>
 ![Level Design](https://people.rit.edu/imm2853/230/project1/Media/level.png)
 
