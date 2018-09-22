@@ -65,9 +65,9 @@ Controls are simply displayed when game starts in text, with small explanation t
 Player should learn to understand based off slow movement that aiming and shooting is much more important than "dodging" attacks. Use bursts to get quick shots in when in close quarters, but use arc to hit from a distance.
 
 ## Screenshots
-The Aesthetic Look of the game
+The Aesthetic Look of the game</br>
 ![Aesthetic](https://people.rit.edu/imm2853/230/project1/Media/look.jpg)
-A level design / gameplay Mock-Up
+A level design / gameplay Mock-Up</br>
 ![Level Design](https://people.rit.edu/imm2853/230/project1/Media/level.png)
 
 ## Other
