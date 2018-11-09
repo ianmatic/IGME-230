@@ -1,5 +1,5 @@
 
-#Film Stats
+# Film Stats
 
 ## How-To
 Check the boxes of what kind of information you'd like to return, then type in the film title, then click search
