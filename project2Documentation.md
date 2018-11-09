@@ -18,7 +18,7 @@ In terms of content, I created everything with the exception of the font (cited 
 ## Notes
 The mobile version works very well on every device I've tested, with the exception of some iPhones, which have some slight cropping issues.
 I believe I met all of the requirements for the project, the site looks and operates really well, and I believe the degree of polish put into
-the site (in terms of functionality and design), it goes above and beyond. Therefore, I believe I've earned a 100 on the project.
+the site (in terms of functionality and design) is above and beyond the core expectations. Therefore, I believe I've earned a 100 on the project.
 
 ## Sources
 Aside from various stackoverflow pages and W3C pages, some specific sources that I used are:
